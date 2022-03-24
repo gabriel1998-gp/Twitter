@@ -1,0 +1,93 @@
+* {
+  font-family: "roboto";
+  margin: 3px;
+}
+
+.container {
+  padding: 17px;
+  display: flex;
+  border: 1px solid #dadddf;
+  margin: 5px;
+  height: 161px;
+  width: 591px;
+  margin-top: 97px;
+  margin-left: 320px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.verify {
+  width: 15px;
+  right: 15px;
+  margin-right: 6px;
+}
+
+.nike-arroba {
+  color: #536471;
+  font-weight: 400;
+  font-size: 15px;
+  margin-right: 3px;
+}
+
+.point {
+  width: 5px;
+  right: 5px;
+  padding: 5px;
+}
+
+.simbolo-nike {
+  font-size: 15px;
+  font-weight: 900;
+  text-transform: capitalize;
+  margin-right: 3px;
+}
+
+.date {
+  font-size: 15px;
+  color: #536471;
+}
+
+.wrapper {
+  display: flex;
+  width: 430px;
+  justify-content: space-between;
+}
+
+.content {
+  height: 100px;
+}
+
+.box img {
+  margin-right: 18px;
+}
+
+p + p {
+  margin-bottom: 16px;
+}
+
+.description {
+  margin-bottom: 25px;
+  width: 490px;
+}
+
+.number {
+  color: #536471;
+}
+
+.number-likes {
+  color: #536471;
+}
+
+.number-favorite {
+  color: #536471;
+}
+
+.screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 591px;
+}
